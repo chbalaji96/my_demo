@@ -6,9 +6,9 @@ const Navbars = () => {
     <div>
         <ul>
             <li><Link to="/"> Home<Link/></li>
-            <li></li>
-            <li></li>    
-            <li></li>
+            <li><Link>About</Link></li>
+            <li><Link>Contact</Link></li>    
+            <li><link>Not-Found</link></li>
         </ul>
     </div>
   )
